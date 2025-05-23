@@ -1,4 +1,4 @@
-# Varshini Dhanavarshini
+# Dhanavarshini
 
 ## About Me
 I am a passionate 2nd-year Information Technology student from Tamil Nadu, focusing on software development, artificial intelligence, and machine learning. I enjoy solving complex problems and continuously learning new technologies.
