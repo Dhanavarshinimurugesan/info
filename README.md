@@ -4,7 +4,6 @@
 I am a passionate 2nd-year Information Technology student from Tamil Nadu, focusing on software development, artificial intelligence, and machine learning. I enjoy solving complex problems and continuously learning new technologies.
 
 ## Skills
-- Programming Languages:
 ### Programming Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 ### Web Development  
