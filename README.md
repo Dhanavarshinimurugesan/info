@@ -4,7 +4,22 @@
 I am a passionate 2nd-year Information Technology student from Tamil Nadu, focusing on software development, artificial intelligence, and machine learning. I enjoy solving complex problems and continuously learning new technologies.
 
 ## Skills
-- Programming Languages: Python, Java, C.
+- Programming Languages:
+### Programming Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+
+### Web Development  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+
+### Tools & Technologies  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+
 - Web Development: HTML, CSS, JavaScript.
 - Tools & Technologies: Git, GitHub, VS Code.
 - Concepts: Object-Oriented Programming, Data Structures, Machine Learning Basics
